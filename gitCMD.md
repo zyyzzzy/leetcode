@@ -7,3 +7,4 @@
 5. git status 查看工作区状态
 6. git log  提交日志
 7. git pull 拉取云端更新到本地，使本地仓库和云端同步更新
+8. git init 初始化本地仓库
